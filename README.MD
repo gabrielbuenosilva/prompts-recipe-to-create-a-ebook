@@ -22,7 +22,7 @@
 O projeto tem como objetivo gerar um ebook com as facilidades das ferramentas de IA. Os prompts utilizados
 seguem abaixo:
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20Super%20Atalhos%20do%20Windows%20para%20a%20Produtividade.pdf" title="View PDF now"> 📕Clique aqui para ler o ebook</a>
+<a href="/output/ebook - Super Atalhos do Windows para a Produtividade.pdf" title="View PDF now"> 📕Clique aqui para ler o ebook</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
