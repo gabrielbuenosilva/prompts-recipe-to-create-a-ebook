@@ -10,7 +10,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.jpg"
+    src="./assets/cover.JPG"
     width="200"  
 />
 </p>
